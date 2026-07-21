@@ -1,26 +1,29 @@
 # Nikita Galkin
 
-QA & GIS Specialist focused on geospatial data automation and data engineering.
+QA & GIS Specialist working with Python automation, geospatial data validation, APIs, and data engineering pipelines.
 
 ## Core skills
 
 - Python, SQL
 - GIS, QGIS, ArcGIS, OSM, JOSM
 - REST APIs, Selenium, automated data validation
-- PostgreSQL, BigQuery, dbt, Kestra
 - Google Sheets API, Overpass API
+- PostgreSQL fundamentals
+
+## Current learning focus
+
+Data engineering with Docker, PostgreSQL, BigQuery, dbt, and Kestra, with a focus on geospatial data pipelines.
 
 ## Featured projects
 
-### Travel Destination Intelligence Pipeline
+### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/Travel-Destination-Intelligence-Pipeline)
+
 An end-to-end data engineering project for collecting, transforming, and analyzing travel destination data using Python, SQL, Docker, Kestra, BigQuery, and dbt.
 
-### OSM Last Modified Batcher
-Batch processing pipeline for OSM route relations using Overpass API and Google Sheets.
+### [OSM Last Modified Batcher](https://github.com/nikgalkins/osm-lastmod-batcher)
 
-### Data Engineering Zoomcamp
-Coursework and projects covering Docker, orchestration, BigQuery and dbt.
+Batch processing pipeline for OSM route relations using the Overpass API and Google Sheets.
 
-## Current focus
+### [Data Engineering Zoomcamp](https://github.com/nikgalkins/data-engineering-zoomcamp-2026)
 
-Geospatial data engineering, spatial SQL, GeoParquet and cloud-native pipelines.
+Coursework and projects covering Docker, workflow orchestration, BigQuery, and dbt.
