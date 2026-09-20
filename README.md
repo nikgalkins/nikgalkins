@@ -1,29 +1,39 @@
 # Nikita Galkin
 
-QA & GIS Specialist working with Python automation, geospatial data validation, APIs, and data engineering pipelines.
+Geospatial Data & Automation Specialist working with spatial data quality, Python automation, OpenStreetMap, APIs, and data engineering pipelines.
+
+My professional path combines remote sensing, GIS, spatial data QA, and workflow automation. I am currently expanding this experience into geospatial data engineering.
 
 ## Core skills
 
-- Python, SQL
-- GIS, QGIS, ArcGIS, OSM, JOSM
-- REST APIs, Selenium, automated data validation
-- Google Sheets API, Overpass API
-- PostgreSQL fundamentals
+- Python and SQL
+- GIS, QGIS, ArcGIS, OpenStreetMap, and JOSM
+- Spatial data validation and quality assurance
+- REST APIs, Overpass API, and Google Sheets API
+- Workflow automation and batch processing
+- PostgreSQL, BigQuery, dbt, Docker, and Kestra
 
-## Current learning focus
+## Current focus
 
-Data engineering with Docker, PostgreSQL, BigQuery, dbt, and Kestra, with a focus on geospatial data pipelines.
+- Building reliable geospatial data pipelines
+- Automating spatial data collection, validation, and transformation
+- Developing data engineering skills through production-oriented projects
+- Applying data engineering methods to GIS and Earth observation data
 
 ## Featured projects
 
-### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/Travel-Destination-Intelligence-Pipeline)
+### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/travel-destination-intelligence-pipeline)
 
 An end-to-end data engineering project for collecting, transforming, and analyzing travel destination data using Python, SQL, Docker, Kestra, BigQuery, and dbt.
 
-### [OSM Last Modified Batcher](https://github.com/nikgalkins/osm-lastmod-batcher)
+### [Geospatial Data Quality Automation](https://github.com/nikgalkins/geospatial-data-quality-automation)
 
-Batch processing pipeline for OSM route relations using the Overpass API and Google Sheets.
+Python automation tools for spatial data validation, OpenStreetMap workflows, Google Sheets integration, and geographic content quality assurance.
 
-### [Data Engineering Zoomcamp](https://github.com/nikgalkins/data-engineering-zoomcamp-2026)
+### [OSM Route Metadata Pipeline](https://github.com/nikgalkins/osm-route-metadata-pipeline)
 
-Coursework and projects covering Docker, workflow orchestration, BigQuery, and dbt.
+A batch-processing pipeline that retrieves metadata for OpenStreetMap route relations through the Overpass API and exports structured results to Google Sheets.
+
+### [Data Engineering Zoomcamp 2026](https://github.com/nikgalkins/data-engineering-zoomcamp-2026)
+
+Coursework and practical projects covering containerization, workflow orchestration, PostgreSQL, BigQuery, dbt, and data pipeline development.
