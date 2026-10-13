@@ -1,39 +1,47 @@
 # Nikita Galkin
 
-Geospatial Data & Automation Specialist working with spatial data quality, Python automation, OpenStreetMap, APIs, and data engineering pipelines.
+GIS and geospatial data quality specialist with experience in remote sensing, data validation, and workflow automation.
 
-My professional path combines remote sensing, GIS, spatial data QA, and workflow automation. I am currently expanding this experience into geospatial data engineering.
+I investigate data inconsistencies, verify results against source information, and use AI coding assistants to help implement practical automation. I am developing my independent Python, SQL, and data analytics skills.
 
-## Core skills
+## Professional experience and tools
 
-- Python and SQL
-- GIS, QGIS, ArcGIS, OpenStreetMap, and JOSM
-- Spatial data validation and quality assurance
-- REST APIs, Overpass API, and Google Sheets API
-- Workflow automation and batch processing
-- PostgreSQL, BigQuery, dbt, Docker, and Kestra
+- Geospatial data validation, source verification, and duplicate geographic entity detection
+- QGIS, ArcGIS, OpenStreetMap, JOSM, and Google Earth
+- Satellite imagery processing with Sentinel and Landsat data
+- Adaptation of existing Python and R scripts for remote-sensing workflows
+- AI-assisted Python automation, batch processing, and result verification
+- REST API workflows, Postman, Overpass API, and Google Sheets integration
+- SQL fundamentals and Git/GitHub
 
-## Current focus
+## Coursework and learning
 
-- Building reliable geospatial data pipelines
-- Automating spatial data collection, validation, and transformation
-- Developing data engineering skills through production-oriented projects
-- Applying data engineering methods to GIS and Earth observation data
+- Data engineering coursework with Docker, PostgreSQL, BigQuery, dbt, and Kestra
+- Machine Learning Zoomcamp coursework
+- Academic data visualization in Tableau and AI-assisted Power BI student exercises
+- Current priorities: independent SQL practice, data quality checks, BI reporting, and business metrics
 
 ## Featured projects
 
-### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/travel-destination-intelligence-pipeline)
+### [OSM Route Metadata Pipeline](https://github.com/nikgalkins/osm-route-metadata-pipeline)
 
-An end-to-end data engineering project for collecting, transforming, and analyzing travel destination data using Python, SQL, Docker, Kestra, BigQuery, and dbt.
+An AI-assisted workflow adopted by the RouteYou team during my GIS work at CactusSoft. It retrieves modification timestamps for OSM route relations and their direct members through the Overpass API and exports results to Google Sheets. It supports batch processing, retries, fallback servers, and skipping previously completed rows.
+
+My contribution included proposing the workflow, using AI assistance for implementation, running it, and checking the results.
 
 ### [Geospatial Data Quality Automation](https://github.com/nikgalkins/geospatial-data-quality-automation)
 
-Python automation tools for spatial data validation, OpenStreetMap workflows, Google Sheets integration, and geographic content quality assurance.
+AI-assisted scripts supporting geographic content workflows, OSM data retrieval, Google Sheets integration, and repetitive checks. I define the tasks, run the workflows, and validate outputs.
 
-### [OSM Route Metadata Pipeline](https://github.com/nikgalkins/osm-route-metadata-pipeline)
+### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/travel-destination-intelligence-pipeline)
 
-A batch-processing pipeline that retrieves metadata for OpenStreetMap route relations through the Overpass API and exports structured results to Google Sheets.
+**Educational project — in progress.** Exploring collection, transformation, and analysis of public travel-destination data with Python, SQL, Docker, Kestra, BigQuery, and dbt.
 
 ### [Data Engineering Zoomcamp 2026](https://github.com/nikgalkins/data-engineering-zoomcamp-2026)
 
-Coursework and practical projects covering containerization, workflow orchestration, PostgreSQL, BigQuery, dbt, and data pipeline development.
+Coursework and exercises with containerization, orchestration, databases, and data transformation.
+
+### [Machine Learning Zoomcamp 2026](https://github.com/nikgalkins/ml-zoomcamp-2026)
+
+Learning notebooks and homework on regression and classification. AI-assisted work is identified in the relevant notebooks.
+
