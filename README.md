@@ -1,47 +1,48 @@
 # Nikita Galkin
 
-GIS and geospatial data quality specialist with experience in remote sensing, data validation, and workflow automation.
+**Earth Observation | GIS | Geospatial Data Quality | Python Automation**
 
-I investigate data inconsistencies, verify results against source information, and use AI coding assistants to help implement practical automation. I am developing my independent Python, SQL, and data analytics skills.
+GIS and geospatial data quality specialist with 5+ years of experience spanning remote sensing, spatial data validation, quality assurance, and automation. I work with satellite imagery, geospatial datasets, and repeatable data-processing workflows.
 
-## Professional experience and tools
+Based in Batumi, Georgia. Interested in international remote opportunities in Earth Observation, geospatial data engineering, and spatial data quality.
 
-- Geospatial data validation, source verification, and duplicate geographic entity detection
-- QGIS, ArcGIS, OpenStreetMap, JOSM, and Google Earth
-- Satellite imagery processing with Sentinel and Landsat data
-- Adaptation of existing Python and R scripts for remote-sensing workflows
-- AI-assisted Python automation, batch processing, and result verification
-- REST API workflows, Postman, Overpass API, and Google Sheets integration
-- SQL fundamentals and Git/GitHub
+## Technical background
 
-## Coursework and learning
+- **Remote sensing:** Sentinel-2, Landsat-8, MODIS, GDAL, Google Earth Engine, geemap, QGIS and ArcGIS; multispectral imagery and land-surface-temperature mapping
+- **Geospatial processing:** Shapely, OpenStreetMap, JOSM, WKT, CRS transformations, route-geometry validation and cross-source consistency checks
+- **Automation:** Python, Overpass API, ArcGIS REST API, Google Sheets API, REST/JSON, batching, retries, error handling and verification
+- **Data engineering:** SQL fundamentals; educational projects with DuckDB, Bruin, SQL, Docker and Streamlit; continuing to learn BigQuery, dbt and orchestration
+- **Quality assurance:** Geospatial data validation, API testing, issue investigation, technical documentation and reproducible checks
 
-- Data engineering coursework with Docker, PostgreSQL, BigQuery, dbt, and Kestra
-- Machine Learning Zoomcamp coursework
-- Academic data visualization in Tableau and AI-assisted Power BI student exercises
-- Current priorities: independent SQL practice, data quality checks, BI reporting, and business metrics
-
-## Featured projects
+## Selected projects
 
 ### [OSM Route Metadata Pipeline](https://github.com/nikgalkins/osm-route-metadata-pipeline)
 
-An AI-assisted workflow adopted by the RouteYou team during my GIS work at CactusSoft. It retrieves modification timestamps for OSM route relations and their direct members through the Overpass API and exports results to Google Sheets. It supports batch processing, retries, fallback servers, and skipping previously completed rows.
-
-My contribution included proposing the workflow, using AI assistance for implementation, running it, and checking the results.
+A Python utility for retrieving modification timestamps from OSM route relations and their direct members via the Overpass API. Features batch queries, retry/backoff, host failover, automatic batch splitting, resumable processing and Google Sheets integration.
 
 ### [Geospatial Data Quality Automation](https://github.com/nikgalkins/geospatial-data-quality-automation)
 
-AI-assisted scripts supporting geographic content workflows, OSM data retrieval, Google Sheets integration, and repetitive checks. I define the tasks, run the workflows, and validate outputs.
+Python scripts supporting geographic-content validation, OSM data retrieval, geocoding, Google Sheets integration and Selenium-assisted workflows.
 
 ### [Travel Destination Intelligence Pipeline](https://github.com/nikgalkins/travel-destination-intelligence-pipeline)
 
-**Educational project — in progress.** Exploring collection, transformation, and analysis of public travel-destination data with Python, SQL, Docker, Kestra, BigQuery, and dbt.
+A Data Engineering Zoomcamp MVP combining public destination, weather, airport and OpenStreetMap POI data. Python ingestion, DuckDB tables, Bruin/SQL transformations and a Streamlit dashboard support transparent destination-comparison scores.
 
-### [Data Engineering Zoomcamp 2026](https://github.com/nikgalkins/data-engineering-zoomcamp-2026)
+### [Interactive Map of Revolutionary Postcards](https://github.com/nikgalkins/interactive-map-of-revolutionary-postcards)
 
-Coursework and exercises with containerization, orchestration, databases, and data transformation.
+An academic geovisualization project involving historical map georeferencing, coordinate transformation, structured collection records and interactive mapping with a timeline.
 
-### [Machine Learning Zoomcamp 2026](https://github.com/nikgalkins/ml-zoomcamp-2026)
+## Applied experience
 
-Learning notebooks and homework on regression and classification. AI-assisted work is identified in the relevant notebooks.
+- **Aerospace-Agro:** Worked with Sentinel-2 multispectral imagery using GDAL, Landsat-8 land-surface-temperature mapping, and Google Earth Engine/geemap workflows for MODIS and solar-radiation analysis.
+- **CactusSoft / RouteYou:** Developed Python/Shapely scripts to classify and prepare ArcGIS trail geometries for RouteYou import; validated OSM routes and automated OSM relation-metadata checks. An Ireland trails workflow covered 1,067 features in dry-run payload generation, not confirmed production imports.
+- **Emerging Travel Group:** Investigate geographic data inconsistencies, validate addresses and coordinates against source evidence, and automate repetitive geospatial checks.
+- **KosmoHackathon 2026:** Participated in Team Ekipazh Buran, which reached the first-round final with a space-weather and orbital-data research prototype. Repository remains private.
 
+## Education and professional development
+
+- **ITMO University:** Master's degree; additional training in Intelligent Geoinformation Technologies
+- **Universitat Pompeu Fabra:** Academic exchange, September–December 2021; Databases coursework
+- **Additional training:** Geoinformation Technologies and Earth Remote Sensing (Tambov State University); Esri Spatial Data Science and Cartography; UAV photogrammetry through Coursera
+
+I use AI-assisted development tools when appropriate and validate outputs, tests and technical conclusions before relying on them. My professional Earth observation experience focuses on optical satellite data rather than operational InSAR processing.
